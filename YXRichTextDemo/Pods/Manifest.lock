@@ -1,0 +1,16 @@
+PODS:
+  - YXRichText (1.0)
+
+DEPENDENCIES:
+  - YXRichText (~> 1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - YXRichText
+
+SPEC CHECKSUMS:
+  YXRichText: 3bf3398e5e3fb34cc9a5e27ad292052389caebc2
+
+PODFILE CHECKSUM: 6b5aec689ef6b710fba24739e78e1a877131064d
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module YXRichText {
+  umbrella header "YXRichText-umbrella.h"
+
+  export *
+  module * { export * }
+}
